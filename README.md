@@ -1,9 +1,18 @@
-# ServiceNow Email Verifier
+About the application:
 
-This is a small ServiceNow app for email validation. 
+User will be able to provide feedback for flights.
+It gets reviewed by a team and on approval an enhancement gets created.
+If rejected, no enhancement is created.
 
-* The app includes a table, which stores all the information regarding the validation.
-* Business rule to create the validation code.
-* Notification to send to user, which need to validate their email
-* Scripted REST API for validating the email
-* ServicePortal widget, which can be used to validate the users email
+Includes the following elements:
+* Tables&Fields
+* Roles, Groups membership
+* ACLs
+* Record Producers
+* Workflows
+* Business Rules
+* Client Scripts
+* UI policy
+* UI actions
+* Registering and Triggering Events
+* Email Notification
